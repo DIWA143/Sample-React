@@ -6,6 +6,7 @@ function Score({ score }) {
 		<div>
 			<h2>Results</h2>
 			<h4>Your score: {score}</h4>
+			<h4>test file</h4>
 		</div>
 	);
 }
